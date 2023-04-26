@@ -1,1 +1,0 @@
-# Wordle-con-Vectores.github.io
